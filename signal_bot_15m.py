@@ -14,8 +14,8 @@ import requests
 from datetime import datetime, timezone
 
 # ========== CONFIG ==========
-BOT_TOKEN = "8438864481:AAFOZFAZq1KqiVdU-rE3SxMrlCvNaHaf79A"
-CHAT_ID = "903610526"
+BOT_TOKEN = ""
+CHAT_ID = ""
 
 PAIRS = ["ETH/USDT", "BCH/USDT", "SOL/USDT", "TON/USDT", "LINK/USDT"]
 TIMEFRAME = "15m"
